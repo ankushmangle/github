@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('new_folder') {
             steps {
-                sh 'mkdir ankush-1-2'
+                sh 'mkdir ankush-1-2-3'
             }
         }
     }
